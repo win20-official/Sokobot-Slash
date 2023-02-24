@@ -22,7 +22,7 @@ To prevent Sokobot from conflicting with other bots, admins can choose any singl
 - ``!stop`` and ``/stop`` can be used to stop your active game at any time.
 - ``!info`` and ``/info`` provides some useful details about the bot and rules of the game.
 ### Admin ``New!``
-- ~~!prefix [character] can be used to change the prefix the bot responds to in the current server. ~~
+- ~~``!prefix [character]`` can be used to change the prefix the bot responds to in the current server.~~
 
 ## Usage
 ### Public host ``New!``
