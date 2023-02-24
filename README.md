@@ -1,6 +1,6 @@
-# Sokobot
+# Sokobot-Slash
 
-Sokobot is a Discord bot written with [JDA](https://github.com/DV8FromTheWorld/JDA) that lets you play [Sokoban](https://en.wikipedia.org/wiki/Sokoban), the classic box-pushing puzzle game.
+Sokobot-Slash is a Discord bot written with [JDA](https://github.com/DV8FromTheWorld/JDA) that lets you play [Sokoban](https://en.wikipedia.org/wiki/Sokoban), the classic box-pushing puzzle game.
 
 ## Screenshots
 ![Level 1](https://cdn.discordapp.com/attachments/670425377503707146/727568442034487316/sokobot_v1.1.gif)
@@ -8,9 +8,9 @@ Sokobot is a Discord bot written with [JDA](https://github.com/DV8FromTheWorld/J
 
 ## Features
 ### Infinite levels
-The maps in Sokobot are randomly generated, increasing in difficulty as you progress.
+The maps in Sokobot-Slash are randomly generated, increasing in difficulty as you progress.
 ### Varied controls
-Sokobot has multiple control options to improve the player's experience, including reactions and wasd commands!
+Sokobot-Slash has multiple control options to improve the player's experience, including reactions and wasd commands!
 ### Simultaneous games
 Thanks to the power of Java HashMaps™️, multiple users can use the bot at the same time without interfering with one another.
 ### Custom prefixes ``New!``
@@ -18,11 +18,11 @@ To prevent Sokobot from conflicting with other bots, admins can choose any singl
 
 ## Commands
 ### User
-- ``!play`` can be used to start a game if you are not currently in one.
-- ``!stop`` can be used to stop your active game at any time.
-- ``!info`` provides some useful details about the bot and rules of the game.
+- ``!play`` and ``/play`` can be used to start a game if you are not currently in one.
+- ``!stop`` and ``/stop`` can be used to stop your active game at any time.
+- ``!info`` and ``/info`` provides some useful details about the bot and rules of the game.
 ### Admin ``New!``
-- ``!prefix [character]`` can be used to change the prefix the bot responds to in the current server. 
+- ~~``!prefix [character]`` can be used to change the prefix the bot responds to in the current server. 
 
 ## Usage
 ### Public host ``New!``
