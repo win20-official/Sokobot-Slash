@@ -18,9 +18,9 @@ To prevent Sokobot from conflicting with other bots, admins can choose any singl
 
 ## Commands
 ### User
-- ``!play`` and ``/play`` can be used to start a game if you are not currently in one.
-- ``!stop`` and ``/stop`` can be used to stop your active game at any time.
-- ``!info`` and ``/info`` provides some useful details about the bot and rules of the game.
+- ``/play`` can be used to start a game if you are not currently in one.
+- ``/stop`` can be used to stop your active game at any time.
+- ``/info`` provides some useful details about the bot and rules of the game.
 ### Admin ``New!``
 - ~~!prefix [character] can be used to change the prefix the bot responds to in the current server.~~
 
